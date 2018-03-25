@@ -1,0 +1,156 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAAUAAAAFAAAB2sAAAQRAAAAFAAAABQAAAdrAAAEEQAAAAAAAAAAB4A=
+  tabs:
+  - history:
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: DuckDuckGo Search Engine
+      url: https://duckduckgo.com/
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: https://www.youtube.com/
+      url: https://www.youtube.com/
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: newsboat - YouTube
+      url: https://www.youtube.com/results?search_query=newsboat+
+      zoom: 1.0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Newsboat Starred Articles - Linux TUI - YouTube
+      url: https://www.youtube.com/watch?v=z359lWo3eQA&t=32s
+      zoom: 1.0
+  - history:
+    - original-url: https://www.youtube.com/redirect?event=video_description&q=http%3A%2F%2Fwww.newsbeuter.org%2F&redir_token=nWt1qXOfb_za7ZbfnSeYvxWGkN58MTUyMTQxOTM4NEAxNTIxMzMyOTg0&v=cpSKsQ2CdAU
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Introduction
+      url: https://www.newsbeuter.org/
+      zoom: 1.0
+    - original-url: https://duckduckgo.com/?q=newsboat%20config
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 240
+      title: https://duckduckgo.com/?q=newsboat+config&ia=software
+      url: https://duckduckgo.com/?q=newsboat+config&ia=software
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Newsboat - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Newsboat
+      zoom: 1.0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 883
+      title: Newsboat - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Newsboat#Configuration
+      zoom: 1.0
+  - history:
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 149
+      title: Newsboat, an RSS reader
+      url: https://newsboat.org/
+      zoom: 1.0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 13
+      title: 'GitHub - newsboat/newsboat: An RSS/Atom feed reader for text terminals'
+      url: https://github.com/newsboat/newsboat
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Luke Smith – Home Page – Luke Smith
+      url: https://lukesmith.xyz/
+      zoom: 1.0
+  - history:
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 420
+      title: LARBS—Luke's Auto-Rice Bootstrapping Scripts
+      url: https://larbs.xyz/
+      zoom: 1.0
+  - active: true
+    history:
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 1260
+      title: 'GitHub - LukeSmithxyz/LARBS: Luke''s Auto-Rice Bootstrapping Scripts:
+        Installation Scripts for My Arch Linux Meta-Distribution'
+      url: https://github.com/lukesmithxyz/larbs
+      zoom: 1.0
+    - original-url: http://archlinux.org/
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Arch Linux
+      url: https://www.archlinux.org/
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Arch Linux - Downloads
+      url: https://www.archlinux.org/download/
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser | qutebrowser
+      url: http://qutebrowser.org/
+      zoom: 1.0
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 1920
+      title: Frequently asked questions | qutebrowser
+      url: http://qutebrowser.org/doc/faq.html
+      zoom: 1.0
+    - original-url: https://duckduckgo.com/?q=4chan%20x
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: https://duckduckgo.com/?q=4chan+x&ia=software
+      url: https://duckduckgo.com/?q=4chan+x&ia=software
+      zoom: 1.0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GitHub - ccd0/4chan-x: Adds various features to 4chan.'
+      url: https://github.com/ccd0/4chan-x
+      zoom: 1.0

@@ -1,0 +1,22 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywACAAAAAAPFAAAAGQAAB2YAAAQMAAADxQAAABkAAAdmAAAEDAAAAAAAAAAAB4A=
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Error loading page: file:///home/rockatudie/homepage/start.html'
+      url: file:///home/rockatudie/homepage/start.html
+      zoom: 1.0
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: settings
+      url: qute://settings/
+      zoom: 1.0
