@@ -24,6 +24,8 @@ alias muttwizard="~/.config/mutt/mutt-wizard.sh"
 alias progs="pacman -Qet" # List programs I've installed
 alias orphans="pacman -Qdt" # List orphan programs
 alias upgr="neofetch && sudo pacman -Syyu --noconfirm && echo Update complete. | figlet"
+alias yupdate="neofetch && yaourt -Syu  --aur --noconfirm && echo Update complete. | figlet"
+
 alias nf="clear && neofetch" # Le Redditfetch
 
 # Internet

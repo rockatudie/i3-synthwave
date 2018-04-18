@@ -4,7 +4,7 @@
 ! | 2016                  |
 ! \-----------------------/
 
-#include </home/rockatudie/.termcolors/birdseye>
+#include </home/rockatudie/.termcolors/synthwave>
 
 
 Xft.dpi:                        109
@@ -16,7 +16,7 @@ Xft.lcdfilter:                  lcddefault
 Xft.rgba:                       rgb
 
 URxvt*termName:                 rxvt-256color
-URxvt*font:                     xft:xos4 Terminus:pixelsize=12
+URxvt*font:                     xft:PragmataProMono:style=bold:pixelsize=12
 URxvt.depth:                    32
 URxvt*lineSpace:                1
 URxvt.letterSpace:              0

@@ -56,6 +56,10 @@ set $right l
 #set $right m
 
 
+## My Bindings
+bindsym $mod+n			exec $term -e newsboat
+#bindsym $mod+y			exec $term -e mpsyt
+bindsym $mod+y			exec $term -e youtube-viewer -S -C
 
 #####################################################################################################################
 #################                          Single and Dual screen                                   #################
@@ -363,8 +367,9 @@ assign [class="Xed|xed|Brackets|Atom|Code|Geany"]                               
 # Workspace 3 Inkscape
 assign [class="Inkscape"]                                                           → 3
 
-# Workspace 4 Gimp
-assign [class="Gimp"]                                                               → 4
+# Workspace 4 priv
+assign [class="Tor Browser"]                                                        → 4
+assign [class="electrum"]                                                        → 4
 
 # Workspace 5 Images and meld
 assign [class="ristretto|Ristretto|shotwell|Shotwell|Xviewer|Nitrogen"]             → 5
@@ -381,7 +386,7 @@ assign [class="Vmplayer|VirtualBox"]						    → 7
 assign [class="Nemo|Thunar|Caja|nautilus|Nautilus"]                                 → 8
 
 # Workspace 9 email clients
-assign [class="Geary|Evolution"]                                                    → 9
+assign [class="Geary|Thunderbird"]                                                    → 9
 
 # Workspace 10 music related
 assign [class="Spotify|spotify"]                                                    → 10
@@ -615,6 +620,7 @@ for_window [class="Xfburn"] floating disable
 for_window [class="Xfce4-appfinder"] floating enable
 for_window [class="Xfce4-settings-manager"] floating disable
 for_window [class="Xfce4-taskmanager"] floating enable
+for_window [class="electrum"] floating enable
 
 
 #for_window [instance="gimp"] floating disable
@@ -699,7 +705,7 @@ bindsym $mod+shift+b exec --no-startup-id i3-msg border toggle
 #changing border style
 #super+t in ArchMerge is starting terminal
 bindsym $mod+t border normal
-bindsym $mod+y border 1pixel
+#bindsym $mod+y border 1pixel
 bindsym $mod+u border none
 
 
